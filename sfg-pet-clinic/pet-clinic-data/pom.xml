@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>com.example</groupId>
 		<artifactId>sfg-pet-clinic</artifactId>
-		<version>0.0.1</version>
+		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.sfg.pet.clinic</groupId>
 	<artifactId>pet-clinic-data</artifactId>
